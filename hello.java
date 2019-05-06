@@ -1,0 +1,2 @@
+syso("hello");
+nihao,GitHub
